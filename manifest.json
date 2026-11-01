@@ -1,0 +1,52 @@
+{
+  "name": "aerial-tcl-icons",
+  "description": "Hand-laid-out 16:9 home tiles for Aerial (app.orchard.tv) on a TCL TV, where the firmware's app icons are square plates.",
+  "tileSize": [1280, 720],
+  "source": "TCL tcl_m7642, Android 9 (SDK 28), Aerial 1.76-guard",
+  "tiles": [
+    {
+      "package": "com.health.aisportcoach",
+      "label": "AI健身",
+      "file": "com.health.aisportcoach.png",
+      "mode": "white",
+      "note": "Viewfinder corners at the four corners are part of the design and are kept (--keep-specks)."
+    },
+    {
+      "package": "com.tcl.camera",
+      "label": "家庭相机",
+      "file": "com.tcl.camera.png",
+      "mode": "white"
+    },
+    {
+      "package": "com.tcl.wholenetsearch",
+      "label": "搜索",
+      "file": "com.tcl.wholenetsearch.png",
+      "mode": "white"
+    },
+    {
+      "package": "com.tcl.playskill",
+      "label": "玩机技巧",
+      "file": "com.tcl.playskill.png",
+      "mode": "white"
+    },
+    {
+      "package": "com.tcl.appreciate.art",
+      "label": "艺生活",
+      "file": "com.tcl.appreciate.art.png",
+      "mode": "white"
+    },
+    {
+      "package": "com.tcl.videocall",
+      "label": "视频通话",
+      "file": "com.tcl.videocall.png",
+      "mode": "white"
+    },
+    {
+      "package": "tv.huan.aliyunpan",
+      "label": "阿里云盘",
+      "file": "tv.huan.aliyunpan.png",
+      "mode": "lockup",
+      "note": "Built from assets/aliyunpan-lockup.svg, laid out like 云视听极光's tile: white ground, logo and wordmark at 78% width."
+    }
+  ]
+}
