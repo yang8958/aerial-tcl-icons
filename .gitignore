@@ -1,9 +1,4 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
 .DS_Store
 Thumbs.db
-src.jpg
-out.png
+desktop.ini
 *.tmp
