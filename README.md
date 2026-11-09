@@ -38,6 +38,9 @@ docs/           改前改后对比图、电视实拍
 | 艺生活 | `com.tcl.appreciate.art` | `tiles/com.tcl.appreciate.art.png` |
 | 视频通话 | `com.tcl.videocall` | `tiles/com.tcl.videocall.png` |
 | 阿里云盘 | `tv.huan.aliyunpan` | `tiles/tv.huan.aliyunpan.png` |
+| 小T助手 | `com.tcl.walleve` | `tiles/com.tcl.walleve.png` |
+| 夸克网盘 | `com.quark.yun.tv` | `tiles/com.quark.yun.tv.png` |
+| 百度网盘 | `com.baidu.netdisk.tv` | `tiles/com.baidu.netdisk.tv.png` |
 
 ## 怎么用
 

@@ -9,6 +9,9 @@
     { "package": "com.tcl.playskill", "label": "玩机技巧", "file": "com.tcl.playskill.png" },
     { "package": "com.tcl.appreciate.art", "label": "艺生活", "file": "com.tcl.appreciate.art.png" },
     { "package": "com.tcl.videocall", "label": "视频通话", "file": "com.tcl.videocall.png" },
-    { "package": "tv.huan.aliyunpan", "label": "阿里云盘", "file": "tv.huan.aliyunpan.png" }
+    { "package": "tv.huan.aliyunpan", "label": "阿里云盘", "file": "tv.huan.aliyunpan.png" },
+    { "package": "com.tcl.walleve", "label": "小T助手", "file": "com.tcl.walleve.png" },
+    { "package": "com.quark.yun.tv", "label": "夸克网盘", "file": "com.quark.yun.tv.png" },
+    { "package": "com.baidu.netdisk.tv", "label": "百度网盘", "file": "com.baidu.netdisk.tv.png" }
   ]
 }
